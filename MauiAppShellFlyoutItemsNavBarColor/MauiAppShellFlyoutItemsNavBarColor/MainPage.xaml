@@ -8,6 +8,6 @@
         <Button
             Margin="32"
             Clicked="Button_Clicked"
-            Text="Now press me!" />
+            Text="Press me!" />
     </VerticalStackLayout>
 </ContentPage>

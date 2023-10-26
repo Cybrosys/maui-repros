@@ -8,11 +8,11 @@
     Shell.FlyoutBehavior="Disabled">
 
     <FlyoutItem>
-        <ShellContent ContentTemplate="{DataTemplate local:StartupPage}" Route="StartupPage" />
+        <ShellContent ContentTemplate="{DataTemplate local:MainPage}" Route="MainPage" />
     </FlyoutItem>
 
     <FlyoutItem>
-        <ShellContent ContentTemplate="{DataTemplate local:MainPage}" Route="MainPage" />
+        <ShellContent ContentTemplate="{DataTemplate local:StartupPage}" Route="StartupPage" />
     </FlyoutItem>
 
 </Shell>
