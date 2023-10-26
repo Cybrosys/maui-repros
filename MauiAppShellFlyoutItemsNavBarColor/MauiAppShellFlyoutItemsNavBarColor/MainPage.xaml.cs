@@ -11,7 +11,7 @@ public partial class MainPage : ContentPage
     {
 		Dispatcher.Dispatch(async () =>
 		{
-			await Shell.Current.GoToAsync("//StartupPage");
+			await Shell.Current.GoToAsync("//StartupPage/WelcomePage");
 		});
     }
 }

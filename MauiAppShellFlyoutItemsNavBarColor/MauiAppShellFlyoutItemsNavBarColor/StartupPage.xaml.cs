@@ -6,14 +6,4 @@ public partial class StartupPage : ContentPage
 	{
 		InitializeComponent();
 	}
-
-    protected override void OnAppearing()
-    {
-        base.OnAppearing();
-
-        Dispatcher.Dispatch(async () =>
-        {
-            await Shell.Current.GoToAsync("WelcomePage");
-        });
-    }
 }
