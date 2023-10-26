@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34219.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiAppShellFlyoutItemsNavBarColor", "MauiAppShellFlyoutItemsNavBarColor\MauiAppShellFlyoutItemsNavBarColor.csproj", "{09170C3B-3937-493F-9734-C87FC5A887FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09170C3B-3937-493F-9734-C87FC5A887FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09170C3B-3937-493F-9734-C87FC5A887FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09170C3B-3937-493F-9734-C87FC5A887FC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{09170C3B-3937-493F-9734-C87FC5A887FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09170C3B-3937-493F-9734-C87FC5A887FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09170C3B-3937-493F-9734-C87FC5A887FC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6F0BC94-275D-46E2-9D47-89A7D0F9E0F2}
+	EndGlobalSection
+EndGlobal
