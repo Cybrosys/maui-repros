@@ -63,7 +63,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\MauiApp1.DependencyInjection\MauiApp1.DependencyInjection.csproj" OutputItemType="Analyzer" />
+	  <ProjectReference Include="..\MauiApp1.DependencyInjection\MauiApp1.DependencyInjection.csproj" />
+    <ProjectReference Include="..\MauiApp1.DependencyInjection.SourceGenerators\MauiApp1.DependencyInjection.SourceGenerators.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
 	</ItemGroup>
 
 </Project>
